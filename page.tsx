@@ -1,0 +1,1 @@
+export default function Page(){return <div>College Discovery Platform</div>}
